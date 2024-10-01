@@ -10,19 +10,20 @@ html{
 
 body{
     background-color: #000000;
-    color: #FFFFFF;
    border-radius: 5px;
 }
 header{
     background-color: gainsboro;
     color: black;
     border-radius: 5px 5px 0 0;
-    padding: 10px 10px 0 10px;
+    padding: 0 10px 10px 0;
+    text-align: center;
 }
 main{
-    background-color: gainsboro;
-    color: black;
-    padding: 0 10px 10px 0;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
 }
 footer{
     background-color: gainsboro;
