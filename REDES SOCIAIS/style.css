@@ -9,14 +9,15 @@ html{
 }
 
 body{
-    background-color: #000000;
-   border-radius: 5px;
+    background-color:gainsboro;
+   border-radius: 110px;
+   border: gray solid 2px;
 }
 header{
     background-color: gainsboro;
     color: black;
-    border-radius: 5px 5px 0 0;
-    padding: 0 10px 10px 0;
+    border-radius: 10px 10px 0 0;
+    padding: 0 0 20px 0;
     text-align: center;
 }
 main{
@@ -24,6 +25,14 @@ main{
     color: white;
     padding: 20px;
     text-align: center;
+}
+p{
+    border: red solid 3px;
+    padding: 20px;
+}
+span{
+    color: red;
+    font-weight: bold;
 }
 footer{
     background-color: gainsboro;
